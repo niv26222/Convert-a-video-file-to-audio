@@ -1,5 +1,5 @@
 
-# Pyton program to Convert a video file to audio
+# Python program to Convert a video file to audio
 
 
 import moviepy.editor as mp
